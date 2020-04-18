@@ -40,7 +40,6 @@ We're going to see a quick example.
 
 <img src="https://imgur.com/uUuT2S4l.png" />
 
-4- Choose if you want to convert other word or exit :)
 ------------
 
 PD: If you like the project and you want to support it you can buy me a coffe in: https://paypal.me/alvaroartano
