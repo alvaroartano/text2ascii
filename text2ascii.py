@@ -44,6 +44,7 @@ result=input(Fore.MAGENTA + "\nDo you want to convert another word? [y/n] > ")
 if result=='y':
      os.system('python "text2ascii.py"')
 else:
-     print(Fore.RED + "\nOk! No problem! See you soon!")
+     print(Fore.RED + "\nOk! No problem! See you soon! ")
+     print(Fore.YELLOW + "github: https://github.com/alvaroartano")
 
 print(Style.RESET_ALL)
